@@ -5,13 +5,13 @@ This project aims to analyze household income trends across states, counties, an
 By identifying patterns and disparities in income, the analysis will provide insights into geographic income distributions. 
 
 # Datasets  
-```
-1. **US Household Income Dataset**  
+
+1. ***US Household Income Dataset***  
    - Columns: row_id, id, State_Code, State_Name, State_ab, County, City, Place, Type, Primary, Zip_Code, Area_Code, ALand, AWater, Lat, Lon  
 
-2. **US Household Income Statistics Dataset**  
+2. ***US Household Income Statistics Dataset***  
    - Columns: id, State_Name, Mean, Median, Stdev  
-```
+
 # Project Plan
 
 1. **Data Cleaning**:  
